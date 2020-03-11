@@ -13,14 +13,17 @@ You should incorparate the following outlines:
 * For this app the style of the component does not matter. Color, font and dimension ca be choosed as seen fit, just orient yourself at the screenshots.
 
 ## Exercise 1
-<img src="/img/login_screen.png" width="200"/> 
 1. Get an API key from [TheCatAPI](https://thecatapi.com/signup).
-2. In the `login` module implement the above screen
-  1. The *Login* button is only clickable if an API key is inserted
-  2. When the *Login* button is clicked, the inserted API key is tested against [TheCatAPI](https://thecatapi.com) to check if the key is valid
-  3. If this check fails, show an error dialog with a meaningful error
-  4. If this check succeeds, move on to the next screen, which will be defined in **Exercise 2**
-  5. If the checkbox *Store this API key for future use* is checked, store this API key securely in the app. Please be aware that this API key should be treated as highly sensitive information. On the next app start the login screen should be skipped and the stored API key should be used.
+2. In the `login` module implement the screen shown at the end of this exercise.
+  * The *Login* button is only clickable if an API key is inserted
+  * When the *Login* button is clicked, the inserted API key is tested against [TheCatAPI](https://thecatapi.com) to check if the key is valid
+  * If this check fails, show an error dialog with a meaningful error
+  * If this check succeeds, move on to the next screen, which will be defined in **Exercise 2**
+  * If the checkbox *Store this API key for future use* is checked, store this API key securely in the app. Please be aware that this API key should be treated as highly sensitive information. On the next app start the login screen should be skipped and the stored API key should be used.
 3. The app should launch with the login screen as first screen (skipped when the checkbox was checked before)
+
+Screens:
+
+<img src="/img/login_screen.png" width="200"/> 
 
 
