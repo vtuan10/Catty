@@ -1,0 +1,5 @@
+rootProject.name='Catty'
+include ':app'
+include ':networking'
+include ':login'
+include ':notification'
