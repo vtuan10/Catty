@@ -48,7 +48,7 @@ In this exercise, we will create a list of random cats which is indefinitely scr
   * It should be able, to indefinitely scroll the list and new images should be loaded dynamically
 2. When a list item is clicked, the second screen is shown
   * It contains the details of the shown cat of the first screen.
-  * A sharing screen is shown, when the image is long clicked.
+  * A sharing screen is shown, when the image is long clicked to share the image.
 
 Screens:
 
