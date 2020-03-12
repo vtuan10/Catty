@@ -52,7 +52,7 @@ In this exercise we will create a list of random cats which is indefinitely scro
 
 Screens:
 
-<img src="/img/list.png" width="200"/><img src="/img/details.png" width="200"/>
+<img src="/img/list.png" width="200"/>      <img src="/img/details.png" width="200"/>
 
 ## Exercise 4
 The app should show a local notification on each day at 12 pm. The code for this is implemented in the `notification` module, but does not work correctly.
