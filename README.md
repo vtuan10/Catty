@@ -55,8 +55,8 @@ Screens:
 <img src="/img/list.png" width="200"/>      <img src="/img/details.png" width="200"/>
 
 ## Exercise 4
-The app should show a local notification on each day at 12 pm. The code for this is implemented in the `notification` module, but does not work correctly.
-Please fix the bugs, so that it works correctly.
+The app should show a local notification on each day at 12 pm. The code for this is implemented in the `notification` module, but does not work correctly and seems faulty.
+Please fix this, so that it works as expected.
 
 ## Bonus Exercise
 At this point we have a working Catty app. Now the same is required for dogs. Fortunately, the same API exists as [TheDogAPI](https://thedogapi.com).
